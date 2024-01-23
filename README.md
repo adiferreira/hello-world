@@ -57,6 +57,32 @@ To be done later!
 
 28/06 -> 04/07 (72-3=69)
 
+05/07 -> 11/07 (72)
+
+12/07 -> 18/07 (72)
+
+19/07 -> 25/07 (72-3=69)
+
+26/07 -> 01/08 (72-50=22)
+
+02/08 -> 08/08 (72)
+
+09/08 -> 15/08 (72)
+
+16/08 -> 22/08 (72-3=69)
+
+23/08 -> 29/08 (72-50=22)
+
+30/08 -> 05/09 (72)
+
+06/09 -> 12/09 (72)
+
+13/09 -> 19/09 (72)
+
+20/09 -> 26/09 (72-50=22)
+
+27/09 -> 03/10 (72-3=69)
+
 ####################################################################
 
 package com.be.step.fxtrade.ebury.dao;
@@ -535,7 +561,7 @@ public class FXTradeEburyAuthenticationUtil {
 
 }
 
-########################################################################à
+########################################################################
 
 package com.be.step.fxtrade.ebury.listener;
 
@@ -575,4 +601,25 @@ public class FXTradeEburyTokenCacheExpiryListener implements EntryEvictedListene
     }
 }
 
-########################################################à
+########################################################
+
+Buongiorno,
+
+vorrei informati che l'Agenzia dell'Entrate è tornata da me ancora con una nuova lettera dopo 4 anni (potete trovate la lettera in allegato).
+Ho preso un appuntamento e sono andato nel loro sportello per chiedere spiegazioni. Mi hanno risposto che nel 2017 ho lavorato in 2 società, ma i versamenti dei contributi fatti non sono corretti.
+Cioè, facendo i conti manca la somma di 200 che adesso è diventata 300 a causa della multa.
+Hanno detto che se le due società si conoscessero, avrebbero potuto fare il conguaglio dei versamenti per evitare questo debito.
+
+Però senza alcuna intenzione di litigare o di fare polemiche, la verità è che non va bene affatto registrare il nuovo contratto di lavoro senza farmi firmarlo prima. 
+
+La domanda che faccio è: come è statto possibile per voi registrare il nuovo contratto di lavoro senza essere firmato da me? Senza dirmi niente? Ed è per questo che sono finiti dentro le giornate di trasferta, ma nessuno mi ha parlato delle transferte prima. Cioè, non ci siamo mai messi d'accordo per includere le trasferte nello stipendo.
+Io vi ho detto all'inizio qual è il mio stipendio mensile netto, perché tutto è basato sulle tarife standard del mercato di sviluppo software e consulenza informatica, ed è comisurato all'esperinza lavorativa dello sviluppatore. 
+
+Quindi se la trasferta è un'opzione che conviene per voi, bisognerebbe gestirla in automatico in modo che siano sempre pari a 26 giornate a prescindere dei giorni festivi o chiusura aziendale, ecc. visto che è un'opzione scelta da voi senza parlarmi di niente.
+
+Nel mese di Dicembre 2023 sono rimasto fregato di 10 giornate in meno di trasferta a causa dei giorni festivi, della chiusura aziendale presso il cliente, più una giornata di permesso che ho preso.
+
+Può sembrare che lo stipendio è alto, ma dipende da quanto si spende. Cioè, ho fatto circa 3 anni a pagare l'albergo ogni notte per dormire per poter andare a lavorare ogni mattina. Quindi dal 2017 al 2020 prendevo lo stipendio per pagare albergui e dormitori a Milano perché a causa dei pregiudizi nessuno accetta affittare la casa alle persone che considerano chissà cosa.
+
+########################################################
+
