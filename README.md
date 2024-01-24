@@ -605,21 +605,23 @@ public class FXTradeEburyTokenCacheExpiryListener implements EntryEvictedListene
 
 Buongiorno,
 
-vorrei informati che l'Agenzia dell'Entrate è tornata da me ancora con una nuova lettera dopo 4 anni (potete trovate la lettera in allegato).
-Ho preso un appuntamento e sono andato nel loro sportello per chiedere spiegazioni. Mi hanno risposto che nel 2017 ho lavorato in 2 società, ma i versamenti dei contributi fatti non sono corretti.
-Cioè, facendo i conti manca la somma di 200 che adesso è diventata 300 a causa della multa.
+vorrei informarvi che l'Agenzia delle Entrate è tornata da me ancora dopo 4 anni con una nuova lettera che potete trovare in allegato.
+Quindi ho preso un appuntamento e sono andato nel loro sportello per chiedere spiegazioni. Mi hanno risposto che nel 2017 ho lavorato in 2 società, ma i versamenti dei contributi fatti non sono corretti.
+Cioè, facendo i conti dei 2 redditi, manca la somma di €200,00 che adesso è diventata €300,00 a causa della multa per ritardo nel pagamento.
+Potete trovate anche in allegato la dichiarazione di reddito del 2018 contenente 3 importi (evidenziati in giallo) fra le pagine, che loro hanno segnato.
+
 Hanno detto che se le due società si conoscessero, avrebbero potuto fare il conguaglio dei versamenti per evitare questo debito.
 
-Però senza alcuna intenzione di litigare o di fare polemiche, la verità è che non va bene affatto registrare il nuovo contratto di lavoro senza farmi firmarlo prima. 
+Però senza alcuna intenzione mia di litigare o di fare polemiche, la verità è che non potete affatto registrare il nuovo contratto di lavoro senza farmi firmarlo prima e senza nemmeno informarmi del cambio della società.
+Comunque la domanda che faccio è come siete riusciti a registrare il nuovo contratto di lavoro senza essere firmato da me? Sarebbe un reato per sostituzione di persona, se qualcuno ha provato a firmare al posto mio.
+E sempre per mia insaputa, sono finiti dentro le giornate di trasferta nel calcolo dello stipendio, ma nessuno mi ha parlato delle transferte prima. Cioè, non ci siamo mai messi d'accordo per includere le trasferte nello stipendio.
 
-La domanda che faccio è: come è statto possibile per voi registrare il nuovo contratto di lavoro senza essere firmato da me? Senza dirmi niente? Ed è per questo che sono finiti dentro le giornate di trasferta, ma nessuno mi ha parlato delle transferte prima. Cioè, non ci siamo mai messi d'accordo per includere le trasferte nello stipendo.
-Io vi ho detto all'inizio qual è il mio stipendio mensile netto, perché tutto è basato sulle tarife standard del mercato di sviluppo software e consulenza informatica, ed è comisurato all'esperinza lavorativa dello sviluppatore. 
+Quello che è successo all'inizio, è di avervi detto qual è il mio stipendio mensile netto oppure qual è lo stipendio netto che mi aspetto per il ruolo di Sviluppatore Java Senior, perché tutto è basato sulle tarife standard del mercato di sviluppo software e consulenza, ed è comisurato all'esperinza lavorativa e competenze tecniche dello sviluppatore.
+Quindi se la trasferta è un'opzione che conviene per voi, bisognerebbe gestirla in automatico, senza la mia partecipazione, in modo che le trasferte siano sempre e permanentemente pari a 26 giornate a prescindere dei giorni festivi o chiusura aziendale, ecc. visto che è un'opzione scelta da voi senza parlarmi di niente.
 
-Quindi se la trasferta è un'opzione che conviene per voi, bisognerebbe gestirla in automatico in modo che siano sempre pari a 26 giornate a prescindere dei giorni festivi o chiusura aziendale, ecc. visto che è un'opzione scelta da voi senza parlarmi di niente.
+Nel mese di Dicembre 2023 sono rimasto fregato di 10 giornate in meno di trasferta a causa dei giorni festivi, della chiusura aziendale presso il cliente, e di una giornata di permesso che ho preso. Quindi lo stipendio oscilla di tante centinaia di Euro; non è stabile e non è garantito a causa delle trasferte.
 
-Nel mese di Dicembre 2023 sono rimasto fregato di 10 giornate in meno di trasferta a causa dei giorni festivi, della chiusura aziendale presso il cliente, più una giornata di permesso che ho preso.
-
-Può sembrare che lo stipendio è alto, ma dipende da quanto si spende. Cioè, ho fatto circa 3 anni a pagare l'albergo ogni notte per dormire per poter andare a lavorare ogni mattina. Quindi dal 2017 al 2020 prendevo lo stipendio per pagare albergui e dormitori a Milano perché a causa dei pregiudizi nessuno accetta affittare la casa alle persone che considerano chissà cosa.
+Può sembrare che lo stipendio è alto, ma dipende sempre dal mestiere ovviamente. E poi le mie spese non sono poche, cioè, ho fatto circa 3 anni a pagare alberghi e ostelli ogni singola notte per dormire per poter andare a lavorare ogni mattina. Quindi dal 2017 al 2020 prendevo lo stipendio per buttare via nel pagamento di posti per dormire perché a causa dei pregiudizi nessuno accetta affittare la casa agli africani.
 
 ########################################################
 
